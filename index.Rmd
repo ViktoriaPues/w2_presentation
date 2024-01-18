@@ -26,7 +26,6 @@ background-image: url(https://www.esa.int/eologos/images/sentinel-2.jpg)
 options(htmltools.dir.version = FALSE)
 ```
 
-
 ---
 
 # Content 
