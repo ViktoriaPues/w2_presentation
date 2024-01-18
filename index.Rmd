@@ -31,15 +31,15 @@ options(htmltools.dir.version = FALSE)
 
 # Content 
 
-1. Summary 
+1. Background on Sentinel-2
 
-2. Application 
+2. Application of Sentinel-2 images 
 
 3. Reflection 
 
 ---
 
-# remark.js
+# Summary
 
 You can see an introduction of remark.js from [its homepage](https://remarkjs.com). You should read the [remark.js Wiki](https://github.com/gnab/remark/wiki) at least once to know how to
 
