@@ -1,13 +1,12 @@
 ---
-title: "Presentation Ninja"
-subtitle: "⚔<br/>with xaringan"
-author: "Yihui Xie"
-institute: "RStudio, PBC"
+title: "Sentinel-2"
+subtitle: "week 2 presentation"
+author: "Viktoria Pues"
+institute: "CASA0025 Remote Sensing"
 date: "2016/12/12 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     css: xaringan-themer.css
-    
     lib_dir: libs
     nature:
       highlightStyle: github
@@ -15,30 +14,17 @@ output:
       countIncrementalSlides: false
       
 ---
-
       ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
 style_mono_light(
   base_color = "#23395b")
 ```
 ---
-
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+background-image: url(https://www.esa.int/eologos/images/sentinel-2.jpg)
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
-
-???
-
-Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharingan_triple.svg)
-
----
-class: center, middle
-
-# xaringan
-
-### /ʃaː.'riŋ.ɡan/
 
 ---
 class: inverse, center, middle
