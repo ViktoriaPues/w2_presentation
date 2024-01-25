@@ -12,7 +12,8 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
-      
+bibliography: Remote Sensing.bib
+
 ---
 class: inverse
 
