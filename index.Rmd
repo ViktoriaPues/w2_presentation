@@ -83,12 +83,11 @@ GFW is a non profit organisation dedicated to protecting the world's forests, e.
 - It seems to be highly relevant for issues related to environment and climate change. 
 - There seems to be limitations in urban environments due to its spatial resolution, which is not sufficient to resolve heterogeneous urban landscapes increasing the probability for misslabeling urban land covers. 
 - However, for cities that have very limited to no data, a high level urban land cover classification based on sentinel-2 data may be a great first step towards better understanding the urban fabric and typoligies.
-- I wonder if there are other free satelites that have a higher resolution and that can be better used for urban environments? 
-
-https://link.springer.com/article/10.1007/s44212-022-00008-y
+- I wonder if there are other free satelites that have a higher resolution and that can be better used for urban environments? @UrbanLandCover
 
 
 ---
+# References
 
 
 
