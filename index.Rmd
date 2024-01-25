@@ -79,8 +79,8 @@ GFW is a non profit organisation dedicated to protecting the world's forests, e.
 # Some reflection... 
 
 ... from the perspective of the development and humanitarian sector: 
-- Sentinel-2 data have the potential to be used in ther international development and humanitarian context due to its open data policy. 
-- It seems to be highly relevant for issues related to environment and climate change. 
+- Sentinel-2 data have the potential to be used in the international development and humanitarian context due to its open data policy. 
+- It seems to be highly relevant for issues related to environment and climate change. However, one shortcoming is that it does not have thermal infrared bands, which means that it cannot  be used to measure temperature.This is one of the advantages of Landsat 8 (NASA) over Sentinel-2 (European Space Agency)
 - There seems to be limitations in urban environments due to its spatial resolution, which is not sufficient to resolve heterogeneous urban landscapes increasing the probability for misslabeling urban land covers. 
 - However, for cities that have very limited to no data, a high level urban land cover classification based on sentinel-2 data may be a great first step towards better understanding the urban fabric and typoligies.
 - I wonder if there are other free satelites that have a higher resolution and that can be better used for urban environments? @UrbanLandCover
