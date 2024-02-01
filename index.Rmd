@@ -52,18 +52,18 @@ style_mono_light(
 - 290km swath (width of the Earth's surface that is covered)
 ]
 
-[You can find the sentinel-2 website here.](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2)
+[You can find the sentinel-2 website *here*.](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2)
 
 ---
 # How is sentinel-2 data used? 
 
-Sentinel-2 data is often used for environmental and climate change monitoring:  
+Sentinel-2 data is often used for environmental and climate change monitoring. Some examples incldue: 
 - Agricultural applications such as crop monitoring and management, 
-- Vegetation and forest monitoring (e.g. leaf area index, chlorophyll concentration, carbon mass estimations), 
-- Monitoring land cover change for environmental monitoring, 
-- Observation of coastal zones (marine environmental monitoring, coastal zone mapping), 
-- Inland water monitoring, 
-- Glacier monitoring, ice extent and snow cover mapping.
+- Vegetation and forest monitoring, e.g. leaf area index, chlorophyll concentration, and carbon mass estimations, 
+- Monitoring land cover change for environmental monitoring, e.g. to dedect deforestation, 
+- Observation of coastal zones, e.g. for marine environmental monitoring, coastal zone mapping, 
+- Glacier monitoring, e.g., ice extent and snow cover mapping, 
+- Disaster risk monitoring and damage assessment. 
 
 ---
 ## Example use cases of Sentinel-2 
@@ -72,18 +72,29 @@ Sentinel-2 data is often used for environmental and climate change monitoring:
 
 GFW is a non profit organisation dedicated to protecting the world's forests, e.g. against fires aand deforestation. It is an online platform that provides data and tools for monitoring forests. By harnessing cutting-edge technology, GFW allows anyone to access near real-time information about where and how forests are changing around the world. The plotform uses sentinel-2 imagery to show changes in forest over time. Check out the video to learn more. 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lTG-0brb98I?si=NdbhFndvU2o4r3K2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+## Example use cases of Sentinel-2 
+### Copernicus Emergency Management Service (EMS)
+
+- EMS delivers timely information before, during, and after crises, aiding in recovery, disaster risk reduction, and preparedness activities. 
+- Two main components: (1) Early Warning Systems and the (2) EMS Mapping Service. 
+- The Early Warning Systems includes flood and forest fire monitoring and forecasting. 
+- At the moment the service is focused on Europe but with the intention of expanding to provide global services. 
+
+[You can find the sentinel-2 website *here*.](hhttps://emergency.copernicus.eu/)
 
 ---
 # Some reflection... 
 
 ... from the perspective of the development and humanitarian sector: 
-- Sentinel-2 data have the potential to be used in the international development and humanitarian context due to its open data policy. 
+- Sentinel-2 data have the potential to be used in the international development and humanitarian context due to its open data policy. This makes it a cost effective tool for dyagnostics and impact monitoring. 
 - It seems to be highly relevant for issues related to environment and climate change. However, one shortcoming is that it does not have thermal infrared bands, which means that it cannot  be used to measure temperature.This is one of the advantages of Landsat 8 (NASA) over Sentinel-2 (European Space Agency)
 - There seems to be limitations in urban environments due to its spatial resolution, which is not sufficient to resolve heterogeneous urban landscapes increasing the probability for misslabeling urban land covers. 
 - However, for cities that have very limited to no data, a high level urban land cover classification based on sentinel-2 data may be a great first step towards better understanding the urban fabric and typoligies.
-- I wonder if there are other free satelites that have a higher resolution and that can be better used for urban environments? @UrbanLandCover
+- I wonder if there are other free satelites that have a higher resolution and that can be better used for urban environments? 
+@prakashOpenEarthObservations2020
 
 
 ---
